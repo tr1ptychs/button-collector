@@ -17,4 +17,5 @@
 - clicking the button in the panel will open the page it was taken from.
 
 ### FYI
-- this extension is made by a noob, and is in a very early state.
+- This extension is made by a noob, and is in a very early state.
+- This extension has been made before, I stole the idea from someone on X (the platform formerly known as twitter)
